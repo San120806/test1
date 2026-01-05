@@ -1,1 +1,3 @@
-Master branch update.
+
+Master branch update. - this is content after resolving merge conflict 
+
